@@ -1,4 +1,4 @@
-# Full Stack Ppen Exercises 🚀
+# Full Stack Open Exercises 🚀
 
 Welcome to my repository for the [Full Stack Open](https://fullstackopen.com/) course exercises! This space is designed to showcase my progress and demonstrate my skills in modern web development. As I progress through the course, I will complete additional parts and keep this repository updated.
 
