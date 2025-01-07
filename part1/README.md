@@ -86,7 +86,7 @@ An application for displaying and voting on programming anecdotes, utilizing com
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Open-FullStack-Exercises.git
+   git clone https://github.com/daviddefitero/fullstackopen-exercises.git
    cd fullstackopen-exercises
 2. **Navigate to the folder of the desired exercise:**
    ```bash

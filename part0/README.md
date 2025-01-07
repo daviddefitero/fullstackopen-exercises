@@ -51,7 +51,7 @@ This exercise builds on the previous one, adding the details of how a user creat
 
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/your-username/Open-FullStack-Exercises.git
-    cd Open-FullStack-Exercises/part0
+    git clone https://github.com/daviddefitero/fullstackopen-exercises.git
+    cd fullstackopen-exercises/part0
 2. **Open the mermaid.md file in each exercise folder to view the Mermaid diagram.**
    To render the Mermaid diagrams, you can use a Markdown editor that supports Mermaid, such as Typora or Visual Studio Code with the Mermaid plugin.
