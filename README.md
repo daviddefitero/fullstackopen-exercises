@@ -4,7 +4,7 @@ Welcome to my repository for the [Full Stack Open](https://fullstackopen.com/) c
 
 ## 📝 Description
 
-This repository contains my solutions to the exercises from the **Open FullStack** course. This comprehensive training program covers full-stack web development, from frontend to backend, with a strong focus on best practices and modern tools.
+This repository contains my solutions to the exercises from the **Full Stack Open** course. This comprehensive training program covers full-stack web development, from frontend to backend, with a strong focus on best practices and modern tools.
 
 ---
 
@@ -35,7 +35,7 @@ As I progress, I will add more parts (e.g., `part2`, `part3`, etc.), covering ad
 The primary goal of this repository is to showcase my technical skills and growth as a full-stack developer. The exercises involve:
 
 - Building interactive interfaces with **React**.
-- Utilizing modern tools such as **Vite** and the **SWC** compiler.
+- Utilizing modern tools such as **Vite**.
 - Applying best practices in code organization and development.
 - Setting up and deploying web applications.
 
