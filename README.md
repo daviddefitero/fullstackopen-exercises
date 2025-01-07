@@ -51,29 +51,6 @@ To clone and run the exercises, you'll need:
 
 ---
 
-## 🚀 Installation and Usage
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/Open-FullStack-Exercises.git
-   cd Open-FullStack-Exercises
-
-2. **Navigate to the folder of the desired exercise:**
-
-   ```bash
-   cd part1/courseinfoenter code here
-
-3. **Install dependencies:**
-
-   ```bash
-   npm install
-
-3. **Run the application:**
-
-   ```bash
-   npm run dev
-
 ## 💻 Technologies Used
 
 ### Currently
