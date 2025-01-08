@@ -13,7 +13,7 @@ This repository contains my solutions to the exercises from the **Full Stack Ope
 Currently, I have completed the following parts: 
 
 ```plaintext
-📦 Open-FullStack-Exercises
+📦 fullstackopen-exercises
 ├── 📁 part0
 │   └── README.md (description of the exercises)
 ├── 📁 part1

@@ -44,7 +44,6 @@ An application for displaying and voting on programming anecdotes, utilizing com
 ```plaintext
 📁 part1
 ├── 📁 courseinfo
-│   ├── 📁 node_modules
 │   ├── 📁 src
 │   │   ├── App.jsx
 │   │   └── main.jsx
@@ -56,7 +55,6 @@ An application for displaying and voting on programming anecdotes, utilizing com
 │   ├── README.md
 │   └── vite.config.js
 ├── 📁 unicafe
-│   ├── 📁 node_modules
 │   ├── 📁 src
 │   │   ├── App.jsx
 │   │   └── main.jsx
@@ -68,7 +66,6 @@ An application for displaying and voting on programming anecdotes, utilizing com
 │   ├── README.md
 │   └── vite.config.js
 ├── 📁 anecdotes
-│   ├── 📁 node_modules
 │   ├── 📁 src
 │   │   ├── App.jsx
 │   │   └── main.jsx

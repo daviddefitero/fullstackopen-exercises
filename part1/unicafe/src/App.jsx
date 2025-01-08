@@ -11,7 +11,7 @@ const StatisticLine = ({value, children, unit}) => {
     )
 }
 
-const GiveFeedfack = ({handleClick}) => {
+const GiveFeedback = ({handleClick}) => {
     return (
         <div>
             <h1>Give Feedback</h1>
@@ -74,7 +74,7 @@ const App = () => {
 
     return (
         <>
-            <GiveFeedfack handleClick={handleClick} />
+            <GiveFeedback handleClick={handleClick} />
             <Statistics feedback={feedback} />
         </>
     )
