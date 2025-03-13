@@ -10,7 +10,7 @@ This repository contains my solutions to the exercises from the **Full Stack Ope
 
 ## 📂 Repository Structure
 
-Currently, I have completed the following parts: 
+Currently, I have completed the following parts:
 
 ```plaintext
 📦 fullstackopen-exercises
@@ -21,12 +21,17 @@ Currently, I have completed the following parts:
 │   ├── 📁 unicafe
 │   ├── 📁 anecdotes
 │   └── README.md
+├── 📁 part2
+│   ├── 📁 countries
+│   ├── 📁 courseinfo
+│   ├── 📁 phonebook
+│   └── README.md
 └── README.md
 ```
 
 The repository is structured into parts (e.g., `part0`, `part1`, etc.), with each part containing subfolders for individual projects. Each project includes its own configuration files and detailed descriptions.
 
-As I progress, I will add more parts (e.g., `part2`, `part3`, etc.), covering advanced React, Node.js, MongoDB, testing, and more.
+As I progress, I will add more parts (e.g., `part3`, `part4`, etc.), covering Node.js, MongoDB, testing, and more advanced topics.
 
 ---
 
@@ -45,27 +50,27 @@ The primary goal of this repository is to showcase my technical skills and growt
 
 To clone and run the exercises, you'll need:
 
-- **Node.js** v18+  
-- **npm** or **yarn**  
-- **Git**  
+- **Node.js** v18+
+- **npm** or **yarn**
+- **Git**
 
 ---
 
 ## 💻 Technologies Used
 
 ### Currently
-- **Frontend**: React, JavaScript, CSS  
-- **Tools**: Vite, SWC  
+- **Frontend**: React, JavaScript, CSS
+- **Tools**: Vite, SWC
 
 ### Upcoming (as I progress through the course)
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB  
-- **Testing**: Jest, Cypress  
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Testing**: Jest, Cypress
 
 ---
 
 ## 📬 Contact
 
-Have any questions or suggestions? I'd love to hear from you!  
+Have any questions or suggestions? I'd love to hear from you!
 
-- 📧 **david@defitero.com**  
+- 📧 **david@defitero.com**

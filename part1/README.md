@@ -1,4 +1,3 @@
-
 # Part 1 - Full Stack Open Exercises
 
 This folder contains my solutions to the **Part 1** exercises from the [Full Stack Open](https://fullstackopen.com/) course.
