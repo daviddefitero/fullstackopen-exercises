@@ -72,7 +72,8 @@ An application that fetches and displays country data from an external API, feat
 │   │   ├── 📁 components
 │   │   │   └── [components files]
 │   │   ├── 📁 services
-│   │   │   └── countries.js
+│   │   │   ├── countries.js
+│   │   │   └── weather.js
 │   │   ├── App.jsx
 │   │   └── main.jsx
 │   ├── .gitignore
@@ -105,5 +106,5 @@ An application that fetches and displays country data from an external API, feat
 
 5. **For phonebook application, also start the JSON server:**
    ```bash
-   npm run server
+   json-server --port 3001 db.json
    ```
