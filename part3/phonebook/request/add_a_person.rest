@@ -1,0 +1,7 @@
+POST http://{{$dotenv HOSTNAME}}:{{$dotenv PORT}}{{$dotenv API_ENDPOINT}}
+Content-Type: application/json
+
+{
+    "name": "John Doe",
+    "number": "608978979"
+}
